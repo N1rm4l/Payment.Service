@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Payment.Service</id>
+    <version>1.0.0</version>
+    <authors>Payment.Service</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="b62eb8f9d9b48724cdb63881f8ff6a62d74dc710" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="NLogger.Service" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RazorPay.Core" version="1.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Personal\Asp.net\Payment.Service\bin\Debug\net8.0\Payment.Service.dll" target="lib\net8.0\Payment.Service.dll" />
+  </files>
+</package>

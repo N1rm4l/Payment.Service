@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkWHG565/PB78efKnKovOykETHHyjnx4CsOtPu7DSO3Xw2J7x3ECjoic3wtrMasihUYlRTRoQmJ70LFnwgralg==",
+  "success": true,
+  "projectFilePath": "E:\\Personal\\Asp.net\\Payment.Service\\Payment.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\nlog\\5.2.7\\nlog.5.2.7.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\nlog.extensions.logging\\5.3.7\\nlog.extensions.logging.5.3.7.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.7\\nlog.web.aspnetcore.5.3.7.nupkg.sha512",
+    "C:\\Users\\NIRMAL\\.nuget\\packages\\razorpay.core\\1.0.2\\razorpay.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
